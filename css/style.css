@@ -13,7 +13,7 @@ body::-webkit-scrollbar{
 }
 /*------HEADER---STARTS---*/
 .backgroundhh{
-    background-image: url(/img/bgHero.jpg);
+    background-image: url(img/bgHero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -56,7 +56,7 @@ header{
 .icons .aboutMe{
     width: 30px;
     height: 30px;
-    background-image: url(/img/sintitulo3.jpg);
+    background-image: url(img/sintitulo3.jpg);
     background-size: contain;
     cursor: pointer;
 }
