@@ -56,7 +56,7 @@ header{
 .icons .aboutMe{
     width: 30px;
     height: 30px;
-    background-image: url(/img/sintitulo3.jpg);
+    background-image: url(../img/sintitulo3.jpg);
     background-size: contain;
     cursor: pointer;
 }
@@ -250,7 +250,7 @@ body.no-scroll {
     color: #00000000;
 }
 .card:nth-child(5){
-    background-image: url(/img/Patitas1.jpg);
+    background-image: url(../img/Patitas1.jpg);
     background-size: cover;
     color: #00000000;
 }
@@ -411,7 +411,7 @@ footer{
 /********/
 .fondoAbout{
     background: black;
-    background-image: url(/img/FONDO.png);
+    background-image: url(../img/FONDO.png);
 }
 .about{
     
